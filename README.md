@@ -1,1 +1,1 @@
-# Implementation of ISO 9001:2015 in a textile industry
+# ISO 9001:2015 implementation in a textile industry
